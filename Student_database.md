@@ -1,1 +1,2 @@
-Student Database contains 1234 all the necessary informations of students
+Student Database contains all the necessary information's of students
+
