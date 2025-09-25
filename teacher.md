@@ -1,2 +1,2 @@
-this file contains teachers information 
+this file contains teacher's informations
 
